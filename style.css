@@ -1,0 +1,22 @@
+.mar-1 {
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    color: blueviolet;
+    background-color: antiquewhite;
+}
+
+.mar-2 {
+    border: 5px solid red;
+    margin: 20px;
+    padding: 20px;
+    color: white;
+    background-color: rgb(107, 102, 95);
+}
+.mar-3 {
+    border: 5px solid blue;
+    margin: 20px;
+    padding: 20px;
+    color: greenyellow;
+    background-color: teal;
+}
